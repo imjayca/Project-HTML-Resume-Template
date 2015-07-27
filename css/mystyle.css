@@ -1,0 +1,36 @@
+#main{
+	width: 800px;
+	height: auto;
+	margin: 0 auto;
+	padding: 15px;
+	font-size: 14px;
+	background-color: #F1F1F1;
+}
+
+#nav{
+	width: 205px;
+	height: 1000px;
+	background-color: #FFFFFF;
+	position: relative;
+	float: left;
+}
+
+#container{
+	margin-left: 220px;
+	padding: 15px;
+	background-color: #FFFDE3;
+}
+
+#nav nav ul li{
+	font-size: 20px;
+	line-height: 20px;
+	list-style: none;
+}
+
+li{
+	font-size: 14px;
+}
+
+footer{
+	clear: both;
+}
